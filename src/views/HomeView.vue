@@ -22,7 +22,6 @@
           <v-col cols="5">
             <div style="position: relative; z-index: 9999;" class="mt-16">
               <v-img src="../assets/perrito.jpg" contain max-height="300"></v-img>
-              <div></div>
             </div>
           </v-col>
         </v-row>
